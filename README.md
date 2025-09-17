@@ -63,4 +63,5 @@ sh run.sh
 
 ## Acknowledgments 
 
-Part of our code is borrowed from the repositories [Fedclip](https://github.com/HideLakitu/fedclip/tree/main/fedclip). We thank them for sharing the code.
+
+Part of our code is borrowed from the repositories [FedCLIP](https://github.com/HideLakitu/fedclip/tree/main/fedclip). We thank them for sharing the code.
